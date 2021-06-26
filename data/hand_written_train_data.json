@@ -1,0 +1,332 @@
+[
+    {
+        "query": [
+            "What is corona virus?",
+            "What is the corona virus?",
+            "Tell me about corona virus.",
+            "Do you know about corona?",
+            "What do you know about corona virus?",
+            "What are corona viruses?",
+            "Give me some information on corona viruses.",
+            "What do you know about corona?",
+            "What do you mean by corona virus?",
+            "What are corona viruses?"
+        ],
+        "response": [
+            "Corona viruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+        ],
+        "intent": "definition_corona"
+    },
+    {
+        "query": [
+            "What is COVID?",
+            "Can you tell me about COVID-19?",
+            "Tell me about COVID-19.",
+            "I want to know about COVID.",
+            "What do you know about COVID-19?",
+            "Do you know about COVID?",
+            "What is the meaning of COVID-19?",
+            "Give me some information on COVID-19.",
+            "What do you mean by Covid?",
+            "Whats Covid?"
+        ],
+        "response": [
+            "COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of \u2018viral pneumonia in Wuhan, People\u2019s Republic of China."
+        ],
+        "intent": "definition_covid"
+    },
+    {
+        "query": [
+            "What are the symptoms of COVID-19?",
+            "Tell me some symptoms of COVID-19.",
+            "Do you about COVID symptoms?",
+            "Tell me about COVID-19 symptoms.",
+            "What do you know about its symptoms?",
+            "Describe Covid symptoms.",
+            "What are its symptoms?",
+            "How to recognize COVID-19?",
+            "How do I know if I am suffering from COVID?",
+            "I want to know about COVID symptoms."
+        ],
+        "response": [
+            "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don\u2019t develop any symptoms and don't feel unwell."
+        ],
+        "intent": "symptoms"
+    },
+    {
+        "query": [
+            "Who is at most risk of severe illness from COVID-19?",
+            "Who all are at risk of severe illness from COVID?",
+            "Which people can be severely ill from COVID?",
+            "How all are severely affected from COVID?",
+            "Why are some people more affected?",
+            "Who is at risk of developing severe illness?",
+            "Is there a risk of developing serious illness from COVID-19?",
+            "Can COVID-19 cause severe illness?",
+            "Who all are highly prone to infection?",
+            "How likely am I to develop serious illness?"
+        ],
+        "response": [
+            "People aged 60 years and over, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die at any age."
+        ],
+        "intent": "risk_people"
+    },
+    {
+        "query": [
+            "Are there long-term effects of COVID-19?",
+            "Can COVID cause long-term effects in our body?",
+            "What are the long-term effects of COVID-19?",
+            "What kind of effects is it causing?",
+            "How is this affecting our body?",
+            "How does COVID-19 affect our body?",
+            "Tell me how COVID is affecting our body.",
+            "What are the effects of COVID-19?",
+            "Do you know about any long-term consequences of COVID?",
+            "What effects can COVID have in the long run?"
+        ],
+        "response": [
+            "Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms, including fatigue, respiratory and neurological symptoms.  WHO is working with our Global Technical Network for Clinical Management of COVID-19, researchers and patient groups around the world to design and carry out studies of patients beyond the initial acute course of illness to understand the proportion of patients who have long term effects, how long they persist, and why they occur.  These studies will be used to develop further guidance for patient care."
+        ],
+        "intent": "longterm_effects"
+    },
+    {
+        "query": [
+            "What test should I get to see if I have COVID-19?",
+            "What are the tests for COVID?",
+            "Tell me about COVID testing.",
+            "What are the available tests?",
+            "How is COVID testing done?",
+            "What tests are there to check infection?",
+            "Tell me about COVID related tests.",
+            "How can I know if I have COVID-19?",
+            "How to make sure if I have COVID or not?",
+            "I want to know about COVID-19 tests."
+        ],
+        "response": [
+            "In most situations, a molecular test is used to detect SARS-CoV-2 and confirm infection. Polymerase chain reaction (PCR) is the most commonly used molecular test. Samples are collected from the nose and/or throat with a swab. Molecular tests detect viruses in the sample by amplifying viral genetic material to detectable levels. For this reason, a molecular test is used to confirm an active infection, usually within a few days of exposure and around the time that symptoms may begin."
+        ],
+        "intent": "covid_tests"
+    },
+    {
+        "query": [
+            "How long does it take to develop symptoms?",
+            "After how much time do the symptoms appear?",
+            "COVID symptoms appear after how long?",
+            "How long it takes for symptoms to appear?",
+            "After how long do COVID symptoms appear?",
+            "How much time it takes for the symptoms to appear?",
+            "What is the incubation period for this virus?",
+            "How much time it takes for the symptoms to develop?",
+            "After how much time the COVID-19 symptoms are visible?",
+            "How long does it takes to develop this disease?"
+        ],
+        "response": [
+            "The time from exposure to COVID-19 to the moment when symptoms begin is, on average, 5-6 days and can range from 1-14 days. This is why people who have been exposed to the virus are advised to remain at home and stay away from others, for 14 days, in order to prevent the spread of the virus, especially where testing is not easily available."
+        ],
+        "intent": "development_period"
+    },
+    {
+        "query": [
+            "Is there a vaccine for COVID-19?",
+            "Are there vaccines available for COVID?",
+            "Tell me about COVID vaccines.",
+            "What vaccines do we have for COVID?",
+            "Are there any vaccines developed?",
+            "I want to know about COVID vaccines.",
+            "Tell me about vaccines for COVID-19.",
+            "Do we have any vaccines for COVID-19?",
+            "What are the vaccines developed for COVID?",
+            "What are the vaccines for COVID?"
+        ],
+        "response": [
+            "The first mass vaccination programme started in early December 2020 and the number of vaccination doses administered is updated on a daily basis here. At least 13 different vaccines (across 4 platforms) have been administered. Campaigns have started in 206 economies.  The Pfizer/BioNtech Comirnaty vaccine was listed for WHO Emergency Use Listing (EUL) on 31 December 2020. The SII/Covishield and AstraZeneca/AZD1222 vaccines (developed by AstraZeneca/Oxford and manufactured by the Serum Institute of India and SK Bio respectively) were given EUL on 16 February. The Janssen/Ad26.COV 2.S developed by Johnson & Johnson, was listed for EUL on 12 March 2021. The Moderna COVID-19 vaccine (mRNA 1273) was listed for EUL on 30 April 2021 and the Sinopharm COVID-19 vaccine was listed for EUL on 7 May 2021. The Sinopharm vaccine is produced by Beijing Bio-Institute of Biological Products Co Ltd, subsidiary of China National Biotec Group (CNBG)."
+        ],
+        "intent": "covid_vaccine"
+    },
+    {
+        "query": [
+            "Are there treatments for COVID-19?",
+            "I want to know about COVID treatment.",
+            "How is COVID-19 being treated?",
+            "What is the treatment for this?",
+            "How is COVID treated?",
+            "Is there any treatment for COVID-19?",
+            "What are the treatments for COVID?",
+            "Is there any cure for COVID?",
+            "Tell me about its treatment.",
+            "What is the treatment for COVID?"
+        ],
+        "response": [
+            "Scientists around the world are working to find and develop treatments for COVID-19.  Optimal supportive care includes oxygen for severely ill patients and those who are at risk for severe disease and more advanced respiratory support such as ventilation for patients who are critically ill.  Dexamethasone is a corticosteroid that can help reduce the length of time on a ventilator and save lives of patients with severe and critical illness. Results from the WHO\u2019s Solidarity Trial indicated that remdesivir, hydroxychloroquine, lopinavir/ritonavir and interferon regimens appear to have little or no effect on 28-day mortality or the in-hospital course of COVID-19 among hospitalized patients.  Hydroxychloroquine has not been shown to offer any benefit for treatment of COVID-19. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19."
+        ],
+        "intent": "covid_treatment"
+    },
+    {
+        "query": [
+            "How can we protect others and ourselves?",
+            "How do I protect myself from this disease?",
+            "What to do to protect me from COVID?",
+            "What do I do to protect myself from COVID-19?",
+            "Is there any protection possible?",
+            "What are the steps to protect ourselves?",
+            "what is the best protection against COVID?",
+            "What are the steps to protect ourselves?",
+            "Tell me some about protective steps against COVID.",
+            "How do I protect myself from COVID-19?"
+        ],
+        "response": [
+            "Stay safe by taking some simple precautions, such as physical distancing, wearing a mask, especially when distancing cannot be maintained, keeping rooms well ventilated, avoiding crowds and close contact, regularly cleaning your hands, and coughing into a bent elbow or tissue. Check local advice where you live and work. Do it all!"
+        ],
+        "intent": "protection"
+    },
+    {
+        "query": [
+            "How does COVID-19 spread?",
+            "How is COVID spreading?",
+            "How can I get infected?",
+            "What can I catch COVID?",
+            "What is causing the virus to spread so fast?",
+            "How is it spreading so fast?",
+            "How can COVID-19 spread?",
+            "How does this virus spreads?",
+            "How is the virus spreading?",
+            "How can I catch COVID?"
+        ],
+        "response": [
+            "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
+        ],
+        "intent": "spread"
+    },
+    {
+        "query": [
+            "What should I do if I have COVID-19 symptoms?",
+            "What are the steps to take after getting infected?",
+            "What are the precautions to take for those having symptoms?",
+            "What to do if I catch COVID?",
+            "What should I do if I get COVID symptoms?",
+            "What are the steps if I am infected?",
+            "I think I have COVID. What should I do?",
+            "I am suffering from COVID-19. What do I do?",
+            "What to do if I get infected?",
+            "What are the dos and donts for COVID patients?"
+        ],
+        "response": [
+            "If you have any symptoms suggestive of COVID-19, call your health care provider or COVID-19 hotline for instructions and find out when and where to get a test, stay at home for 14 days away from others and monitor your health.  If you have shortness of breath or pain or pressure in the chest, seek medical attention at a health facility immediately. Call your health care provider or hotline in advance for direction to the right health facility.  If you live in an area with malaria or dengue fever, seek medical care if you have a fever.  If local guidance recommends visiting a medical centre for testing, assessment or isolation, wear a medical mask while traveling to and from the facility and during medical care. Also keep at least a 1-meter distance from other people and avoid touching surfaces with your hands.  This applies to adults and children."
+        ],
+        "intent": "post_symptoms"
+    },
+    {
+        "query": [
+            "Show me the COVID figures from Delhi.",
+            "How many people are suffering in Delhi?",
+            "I want to see the COVID numbers from Delhi.",
+            "Tell me about the COVID situation in Delhi.",
+            "How is the covid situation in Delhi?",
+            "How many have been affected from COVID in Delhi?",
+            "What is the number of patients in Delhi?",
+            "What is the covid picture in Delhi?",
+            "How many people have been affected in Delhi?",
+            "Give me the covid numbers from Delhi."
+        ],
+        "response": [
+            ""
+        ],
+        "intent": "covid_numbers"
+    },
+    {
+        "query": [
+            "I am trying to get myself a vaccination slot.",
+            "Please help to book vaccination for me.",
+            "I want to check if a vaccination slot is available.",
+            "Is there a vaccination slot available?",
+            "Can you help me get a slot for vaccination?",
+            "I need help to book a vaccination slot for myself.",
+            "Please help me to get a slot for vaccination.",
+            "Is there any vaccination slot available?",
+            "I am looking for vaccination slot.",
+            "I need help to get vaccinated."
+        ],
+        "response": [
+            ""
+        ],
+        "intent": "vaccination_slot"
+    },
+    {
+        "query": [
+            "Hi",
+            "Hello",
+            "Hi There",
+            "Hey",
+            "Hi Vicci",
+            "Good evening",
+            "Good morning",
+            "Hello Bot",
+            "Hey Vicci",
+            "Greetings"
+        ],
+        "response": [
+            "Namaste is the new normal :)",
+            "Greetings.!",
+            "Hi.!"
+        ],
+        "intent": "greet"
+    },
+    {
+        "query": [
+            "Bye",
+            "Goodbye",
+            "See you later",
+            "Bye-bye",
+            "See ya",
+            "Thanks. Bye.",
+            "Ok. Bye.",
+            "See you.",
+            "See you soon",
+            "Catch you later."
+        ],
+        "response": [
+            "See you later.",
+            "Have a nice day.!",
+            "Bye. Stay safe."
+        ],
+        "intent": "bye"
+    },
+    {
+        "query": [
+            "Thanks",
+            "Thank you",
+            "That helped",
+            "Thanks for the help",
+            "Thanks a lot",
+            "Great.!",
+            "Much thanks.!",
+            "Thanks Vicci.!",
+            "That's great.!",
+            "Awesome.!"
+        ],
+        "response": [
+            "You're welcome.",
+            "Happy to assist.",
+            "Most welcome.!"
+        ],
+        "intent": "thanks"
+    },
+    {
+        "query": [
+            "Who are you?",
+            "What can you do?",
+            "Tell me about yourself.",
+            "How can you help?",
+            "What is your name?",
+            "Are you a bot?",
+            "What should I call you?",
+            "Help me",
+            "Say something.",
+            "What can you help with?"
+        ],
+        "response": [
+            "I'm Vicci - Very Intelligent Covid Chat Interface. I can answer your queries on COVID and check for vaccine slots."
+        ],
+        "intent": "intro"
+    }
+]
