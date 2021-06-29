@@ -1,0 +1,10 @@
+python=3.7
+notebook
+numpy
+pandas
+scikit-learn
+nltk
+parsedatetime
+beautifulsoup4
+fuzzywuzzy
+flask
