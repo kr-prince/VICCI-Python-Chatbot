@@ -218,15 +218,15 @@
     {
         "query": [
             "Show me the COVID figures from Delhi.",
-            "How many people are suffering in Delhi?",
+            "How many people have suffered?",
             "I want to see the COVID numbers from Delhi.",
-            "Tell me about the COVID situation in Delhi.",
+            "Tell me about the COVID situation.",
             "How is the covid situation in Delhi?",
-            "How many have been affected from COVID in Delhi?",
+            "How many have been affected from COVID?",
             "What is the number of patients in Delhi?",
             "What is the covid picture in Delhi?",
             "How many people have been affected in Delhi?",
-            "Give me the covid numbers from Delhi."
+            "Give me the covid numbers in Delhi."
         ],
         "response": [
             ""
@@ -235,15 +235,15 @@
     },
     {
         "query": [
-            "I am trying to get myself a vaccination slot.",
+            "I am trying to get myself a vaccination slot on Monday.",
             "Please help to book vaccination for me.",
-            "I want to check if a vaccination slot is available.",
-            "Is there a vaccination slot available?",
-            "Can you help me get a slot for vaccination?",
+            "I want to check if a vaccination slot is available for Monday.",
+            "Is there a vaccination slot available this Monday?",
+            "Can you help me get a slot for vaccination this Monday?",
             "I need help to book a vaccination slot for myself.",
-            "Please help me to get a slot for vaccination.",
-            "Is there any vaccination slot available?",
-            "I am looking for vaccination slot.",
+            "Please help me to get a slot for vaccination coming Monday.",
+            "Is there any vaccination slot available for next Monday?",
+            "I am looking for vaccination slot for Monday.",
             "I need help to get vaccinated."
         ],
         "response": [
