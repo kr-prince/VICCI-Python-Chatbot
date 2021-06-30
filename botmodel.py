@@ -207,7 +207,7 @@ class BotModel(object):
 
 if __name__ == "__main__":
     model = BotModel()
-    # model.train(save_models=True)
+    model.train(save_models=True)
     model.initialize()
 
     inputs = ["what are the tests available for covid?", "bye", 
