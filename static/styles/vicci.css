@@ -22,7 +22,6 @@ fieldset {
     overflow-y:scroll; 
     height:70vh; 
     width:100vh;
-    /*background-color: lightyellow;*/
 }
 
 #msg1 {
@@ -40,7 +39,7 @@ fieldset {
 
 .user_message {
     padding: 1%;
-    margin-left: 50%;
+    margin-left: 60%;
     text-align: right;
     background-color: darkgray;
     border-top-left-radius: 3vh;

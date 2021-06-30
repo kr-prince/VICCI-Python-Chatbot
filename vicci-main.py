@@ -84,7 +84,6 @@ class VicciBot(object):
 				self.entities = dict.fromkeys(self.entities, None)
 				bot_responses.append("I did not get date or pincode in your input. "+
 								"Aborting vaccine slots checking.")
-				served = True
 			else:
 				bot_responses.extend(self.handle_vaccination(pincode, dateObj))
 				served = True
